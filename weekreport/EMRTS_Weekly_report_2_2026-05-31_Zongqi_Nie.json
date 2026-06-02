@@ -1,0 +1,24 @@
+{
+  "contact_info": {
+    "name": "Zongqi Nie(Nathan Nie)",
+    "mobile": "5402005804",
+    "email": "Zongqi@vt.edu",
+    "telegram": "Nathan Nie 5402005804",
+    "github": "G0nGT(Nathan Nie)"
+  },
+  "report_date": "2026-05-31",
+  "summary": "This week, I continued working on my internship learning tasks. I watched MIT lecture content up to Chapter 7 and completed about half of the gallon project. During the project, I encountered some coding parts that I was not sure how to solve, so I am currently asking AI for help and trying to understand the correct approach.",
+  "work_completed": [
+    "Watched MIT lecture content up to Chapter 7",
+    "Completed about half of the gallon project",
+    "Continued practicing Python programming through the project"
+  ],
+  "problems_or_questions": [
+    "For the gallon project, there are some parts of the code that I do not know how to write yet. I am currently asking AI for help and trying to understand the logic."
+  ],
+  "plan_for_next_week": [
+    "Start regular internship tasks",
+    "Take notes during the week",
+    "Prepare the next weekly report"
+  ]
+}

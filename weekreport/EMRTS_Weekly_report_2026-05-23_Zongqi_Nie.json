@@ -1,0 +1,25 @@
+{
+  "contact_info": {
+    "name": "Zongqi Nie(Nathan Nie)",
+    "mobile": "5402005804",
+    "email": "Zongqi@vt.edu",
+    "telegram": "Nathan Nie 5402005804",
+    "github": "G0nGT(Nathan Nie)"
+  },
+  "report_date": "2026-05-23",
+  "summary": "This week, I finalized the setup for the start of my internship and created accounts on LinkedIn, Telegram, and GitHub. I also emailed the details to my advisor. In addition, I completed part of MIT’s introductory Python course.",
+  "work_completed": [
+    "Installed VS Code",
+    "created accounts on LinkedIn, Telegram, and GitHub",
+    "Prepared the JSON report structure",
+    "watched the one part of MIT course"
+  ],
+  "problems_or_questions": [
+    "I've set up WSL (Linux) as instructed, but I don't know how to use it or what it's for.."
+  ],
+  "plan_for_next_week": [
+    "Start regular internship tasks",
+    "Take notes during the week",
+    "Prepare the next weekly report"
+  ]
+}
