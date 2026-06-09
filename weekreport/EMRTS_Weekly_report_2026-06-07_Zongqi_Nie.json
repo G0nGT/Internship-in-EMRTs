@@ -1,0 +1,22 @@
+{
+  "contact_info": {
+    "name": "Zongqi Nie(Nathan Nie)",
+    "mobile": "5402005804",
+    "email": "Zongqi@vt.edu",
+    "telegram": "Nathan Nie 5402005804",
+    "github": "G0nGT(Nathan Nie)"
+  },
+  "report_date": "2026-06-09",
+  "summary": "This week, I continued watching the MIT Python lecture series and covered Lectures 6 and 7. Most of the content was theory-based, so I am looking to supplement my learning with more hands-on coding practice to strengthen my programming skills.",
+  "work_completed": [
+    "Watched MIT Python lecture series Lecture 6 and Lecture 7"
+  ],
+  "problems_or_questions": [
+    "The MIT lectures are mostly theoretical. I feel I need more hands-on coding practice to reinforce what I am learning."
+  ],
+  "plan_for_next_week": [
+    "Continue watching the MIT lecture series",
+    "Start working on a project to get more practical coding experience"
+  ],
+  "hours_worked": 27
+}
